@@ -11,3 +11,16 @@ ATT+Multi: the extended version of ATT and achieves the best performance. <br>
 
 Code Use
 ---------
+Take the code of ATT+Multi for example:
+cd ATT+Multi
+make
+./train
+
+the results are in ./out/pr.txt
+
+Data Fetch
+------
+You can obtain the data from https://drive.google.com/open?id=0B8KyXw_n5ZQROUd4SngwcVFEYVU. 
+
+
+
