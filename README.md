@@ -49,8 +49,9 @@ Citation
                      1: Long Papers},
   	year      = {2016}
 	}
+	
 Referrence
-------
+---------
 	[1] Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, and Maosong Sun. 2016. Neural relation extraction with selective attention over instances. In Proceedings of ACL. volume 1, pages 2124–2133.
 	[2] Sebastian Riedel, Limin Yao, and Andrew McCallum. 2010. Modeling relations and their mentions without labeled text. In Proceedings of ECML-PKDD. Springer, pages 148–163.
 
