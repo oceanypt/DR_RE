@@ -13,10 +13,11 @@ Code Use
 ---------
 	Take the code of ATT+Multi for example: 
 	cd ATT+Multi 
+	mkdir out
 	make 
 	./train 
 
-	the results are in ./out/pr.txt
+	the results are in out/pr.txt
 
 Data Fetch
 ------
