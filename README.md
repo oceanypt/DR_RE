@@ -11,10 +11,10 @@ ATT+Multi: the extended version of ATT and achieves the best performance. <br>
 
 Code Use
 ---------
-Take the code of ATT+Multi for example:
-cd ATT+Multi
-make
-./train
+Take the code of ATT+Multi for example: <br>
+cd ATT+Multi <br>
+make <br>
+./train <br>
 
 the results are in ./out/pr.txt
 
@@ -22,5 +22,17 @@ Data Fetch
 ------
 You can obtain the data from https://drive.google.com/open?id=0B8KyXw_n5ZQROUd4SngwcVFEYVU. 
 
+Citation
+@InProceedings{P17-1166,
+  author = 	"Ye, Hai
+		and Chao, Wenhan
+		and Luo, Zhunchen
+		and Li, Zhoujun",
+  title = 	"Jointly Extracting Relations with Class Ties via Effective Deep Ranking",
+  booktitle = 	"Proceedings of the 55th Annual Meeting of the Association for      Computational Linguistics (Volume 1: Long Papers)",
+  year = 	"2017",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"1810--1820"
+}
 
 
