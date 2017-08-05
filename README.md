@@ -1,6 +1,6 @@
 DR_RE
 =====
-	This code is for our ACL2017 paper: "Jointly Extracting Relations with Class Ties via Effective Deep Ranking". <br>
+	This code is for our ACL2017 paper: "Jointly Extracting Relations with Class Ties via Effective Deep Ranking".
 
 Description
 -------
@@ -20,12 +20,11 @@ Code Use
 
 Data Fetch
 ------
-You can obtain the data from [data](https://drive.google.com/open?id=0B8KyXw_n5ZQROUd4SngwcVFEYVU). 
+You can obtain the data from [data](https://drive.google.com/open?id=0B8KyXw_n5ZQROUd4SngwcVFEYVU)[1][2]. 
 
 Citation
 ----
-	This code is based on the codes from [1], so if you want 
-	to use this code, please cite the following papers:
+	This code is based on the codes from [1], so if you want  to use this code, please cite the following papers:
 	
 	@InProceedings{
   	author = 	"Ye, Hai 
@@ -50,5 +49,8 @@ Citation
                      1: Long Papers},
   	year      = {2016}
 	}
-
+Referrence
+------
+	[1] Yankai Lin, Shiqi Shen, Zhiyuan Liu, Huanbo Luan, and Maosong Sun. 2016. Neural relation extraction with selective attention over instances. In Proceedings of ACL. volume 1, pages 2124–2133.
+	[2] Sebastian Riedel, Limin Yao, and Andrew McCallum. 2010. Modeling relations and their mentions without labeled text. In Proceedings of ECML-PKDD. Springer, pages 148–163.
 
